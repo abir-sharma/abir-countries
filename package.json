@@ -1,21 +1,21 @@
 {
   "name": "abir-countries",
-  "version": "1.0.0",
-  "type":"module",
+  "version": "1.0.1",
+  "type": "module",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "build:dev":"rollup -c --enviroment NODE_ENV:development",
-    "build":"rollup -c --enviroment NODE_ENV:production"
+    "build:dev": "rollup -c --enviroment NODE_ENV:development",
+    "build": "rollup -c --enviroment NODE_ENV:production"
   },
   "author": "Abir sharma",
   "license": "ISC",
   "repository": {
-    "type":"git",
-    "url":"https://github.com/abir-sharma/abir-countries"
+    "type": "git",
+    "url": "https://github.com/abir-sharma/abir-countries"
   },
-  "bugs":{
-    "url":"https://github.com/abir-sharma/abir-countries/issues"
+  "bugs": {
+    "url": "https://github.com/abir-sharma/abir-countries/issues"
   },
   "dependencies": {
     "react": "^18.3.1",
