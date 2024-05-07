@@ -1,16 +1,16 @@
 Install
 
 # with npm
-npm install tapas-countries
+npm install abir-countries
 
 # with yarn
-yarn add tapas-countries
+yarn add abir-countries
 
 Usage 
  
 Import the package in your app:
 
-               import {useCountry} from 'tapas-countries';
+               import {useCountry} from 'abir-countries';
 
 Get the country information from the hook:
 

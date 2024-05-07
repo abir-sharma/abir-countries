@@ -1,6 +1,6 @@
 {
   "name": "abir-countries",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "type": "module",
   "description": "",
   "main": "dist/index.js",
